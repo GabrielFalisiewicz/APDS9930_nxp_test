@@ -1,0 +1,10 @@
+C:\Users\Gabriel\MCUXpressoIDE\workspace\pro_sensor\device/LPC55S69_cm33_core0.h:31258:24:Chip_GetVersion	0	static
+../board/pin_mux.c:58:6:BOARD_InitDEBUG_UARTPins	0	static
+../board/pin_mux.c:117:6:BOARD_InitSWD_DEBUGPins	8	static
+../board/pin_mux.c:250:6:BOARD_InitUSBPins	0	static
+../board/pin_mux.c:354:6:BOARD_InitLEDsPins	32	static
+../board/pin_mux.c:453:6:BOARD_InitBUTTONsPins	24	static
+../board/pin_mux.c:590:6:BOARD_InitI2SPins	0	static
+../board/pin_mux.c:756:6:BOARD_InitACCELPins	16	static
+../board/pin_mux.c:838:6:BOARD_InitPMODPins	0	static
+../board/pin_mux.c:31:6:BOARD_InitBootPins	8	static

@@ -1,0 +1,3 @@
+../source/APDS9930.c:14:6:APD_byte	24	static
+../source/APDS9930.c:25:6:APD_read_8	16	static
+../source/APDS9930.c:42:6:APD_Init_proximity	8	static

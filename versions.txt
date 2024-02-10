@@ -1,0 +1,5 @@
+10.02.2024 -> 0.01:
+>Nawiązano połączenie.
+>Podstawowy read 8 bit.
+>Podstawowy write.
+>Podstawowy init.

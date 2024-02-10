@@ -1,0 +1,5 @@
+../utilities/fsl_str.c:478:17:ScanIsWhiteSpace	0	static
+../utilities/fsl_str.c:488:17:ScanIgnoreWhiteSpace	8	static
+../utilities/fsl_str.c:503:16:ConvertRadixNumToString.constprop	16	static
+../utilities/fsl_str.c:768:5:StrFormatPrintf	88	static
+../utilities/fsl_str.c:1393:5:StrFormatScanf	72	static
