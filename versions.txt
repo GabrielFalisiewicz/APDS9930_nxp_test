@@ -3,3 +3,8 @@
 >Podstawowy read 8 bit.
 >Podstawowy write.
 >Podstawowy init.
+
+13.02.2024 -> 0.02:
+>Poprawiona funkcja zapisu i odczytu.
+>Wprowadzenie sekwencji startowej sensora.
+>Dodano schemat połączenia. 

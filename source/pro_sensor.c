@@ -23,6 +23,8 @@
 /*
  * @brief   Application entry point.
  */
+uint16_t result = 0;
+
 int main(void) {
 
     /* Init board hardware. */
@@ -36,14 +38,14 @@ int main(void) {
 
     PRINTF("Hello World\r\n");
     APD_Init_proximity(FLEXCOMM1_PERIPHERAL);
-    APD_read_8(0x9C);
-
-
 
     /* Force the counter to be placed into memory. */
     volatile static int i = 0 ;
     /* Enter an infinite loop, just incrementing a counter. */
     while(1) {
+    	result = APD_read_8(0x18);
+    	PRINTF("Wynik: %u\r\n", result);
+    	for(int i = 0; i<120000; i++);
         i++ ;
         /* 'Dummy' NOP to allow source level single stepping of
             tight while() loop */

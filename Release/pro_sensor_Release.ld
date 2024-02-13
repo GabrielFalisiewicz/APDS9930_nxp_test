@@ -5,7 +5,7 @@
  * Generated linker script file for LPC55S69
  * Created from linkscript.ldt by FMCreateLinkLibraries
  * Using Freemarker v2.3.30
- * MCUXpresso IDE v11.9.0 [Build 2144] [2024-01-05] on 10 lut 2024, 23:15:08
+ * MCUXpresso IDE v11.9.0 [Build 2144] [2024-01-05] on 13 lut 2024, 21:39:45
  */
 
 INCLUDE "pro_sensor_Release_library.ld"

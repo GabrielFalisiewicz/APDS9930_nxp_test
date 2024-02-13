@@ -14,6 +14,6 @@
 
 void APD_Init_proximity(I2C_Type *base);
 void APD_byte(uint8_t adress, uint8_t data);
-void APD_read_8(uint8_t address);
+uint16_t APD_read_8(uint8_t address);
 
 #endif /* APDS9930_H_ */
